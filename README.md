@@ -1,5 +1,5 @@
-### Hi there my name is Kristian 
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/kristian-guajardo-05496028b/">IT Professional</a>☺</h1>
+
+<h1>Hi, I'm Kristian, an <a href="https://linkedin.com/in/kristian-guajardo-05496028b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
